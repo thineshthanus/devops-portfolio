@@ -1,4 +1,15 @@
-# DevOps Engineer Portfolio Projects
+# 🚀 DevOps Engineer Portfolio
+
+This repo showcases advanced DevOps engineering skills using real-world infrastructure projects. From Infrastructure-as-Code with Terraform and Ansible, to CI/CD pipelines and multi-cloud deployments, each project reflects production-grade automation and reliability practices.
+
+## 🔧 Highlights
+- Infrastructure-as-Code (Terraform, Ansible)
+- GitHub Actions CI/CD pipelines
+- Kubernetes manifests and Helm charts
+- Monitoring with Prometheus & Grafana
+- Multi-cloud automation (AWS, GCP, Azure)
+
+## Project List
 
 ## 1. Multi-Cloud CI/CD Pipeline with Secrets Rotation and Policy Compliance
 
